@@ -1,2 +1,3 @@
 Its okay to be Kind than to be Right!
 Test the vim editor for commit messages without the -m message flag
+Final test to ensure my different github-accs are connected accordingly
